@@ -1,0 +1,4 @@
+python-dataclasses source: file-without-copyright-information
+python-dataclasses source: no-debian-changes
+python-dataclasses source: source-contains-prebuilt-windows-binary
+python-dataclasses source: source-package-encodes-python-version

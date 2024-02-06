@@ -6,3 +6,4 @@ build/
 i.py
 attrtest.py
 pep-0557.html
+.pybuild/
