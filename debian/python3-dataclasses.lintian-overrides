@@ -1,0 +1,4 @@
+python3-dataclasses: copyright-without-copyright-notice
+python3-dataclasses: initial-upload-closes-no-bugs
+python3-dataclasses: no-manual-page
+python3-dataclasses: zero-byte-file-in-doc-directory
